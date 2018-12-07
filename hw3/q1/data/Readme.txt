@@ -53,17 +53,13 @@ Associated tasks
 =========================================
 Files
 =========================================
-
 	- Readme.txt
 	- hour.csv : bike sharing counts aggregated on hourly basis. Records: 17379 hours
 	- day.csv - bike sharing counts aggregated on daily basis. Records: 731 days
-
-	
 =========================================
 Dataset characteristics
 =========================================	
 Both hour.csv and day.csv have the following fields, except hr which is not available in day.csv
-	
 	- instant: record index
 	- dteday : date
 	- season : season (1:springer, 2:summer, 3:fall, 4:winter)
@@ -85,7 +81,6 @@ Both hour.csv and day.csv have the following fields, except hr which is not avai
 	- casual: count of casual users
 	- registered: count of registered users
 	- cnt: count of total rental bikes including both casual and registered
-	
 =========================================
 License
 =========================================
